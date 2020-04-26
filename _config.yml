@@ -1,11 +1,11 @@
 # Site settings
 author: David Munro
-title: 
+title: Munro Musings
 header-img: img/home-bg.png
 email: dbhmunro@gmail.com
 copyright_name: David Munro
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Perspectives from a Software Engineer Student
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dbhmunro
