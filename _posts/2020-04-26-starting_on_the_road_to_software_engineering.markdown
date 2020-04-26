@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Starting on the road to software engineering"
-date:       2020-04-26 22:52:26 +0000
+date:       2020-04-26 18:52:26 -0400
 permalink:  starting_on_the_road_to_software_engineering
 ---
 
