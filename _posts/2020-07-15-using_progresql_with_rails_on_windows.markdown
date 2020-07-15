@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using ProgreSQL with Rails on Windows"
-date:       2020-07-15 05:29:37 +0000
+date:       2020-07-15 01:29:38 -0400
 permalink:  using_progresql_with_rails_on_windows
 ---
 
@@ -34,9 +34,8 @@ This should now have you successfully up and running with PostreSQL for Rails on
 
 
 **;tldr**
--Install PostgreSQL
--Create Rails project with PostgreSQL as the database
--Modify database.yml file
--Create the relevant database through admin tools
--Enjoy!
-
+* Install PostgreSQL
+* Create Rails project with PostgreSQL as the database
+* Modify database.yml file
+* Create the relevant database through admin tools
+* Enjoy!
