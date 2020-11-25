@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React Summit 2020"
-date:       2020-11-25 16:36:10 +0000
+date:       2020-11-25 11:36:11 -0500
 permalink:  react_summit_2020
 ---
 
@@ -14,12 +14,19 @@ Out of all the different talks and sessions at that conference though, I would l
 
 Each category has interesting features, however I appreciated the category of most impactful contribution to the community, as it featured some projects that were not only well designed and built, but can also include a component of social impact. I also enjoy the category of productivity booster, as there are some projects that can significantly improve one’s productivity and efficacy.
 
+
 Here are projects that I’m interested in and plan to include in upcoming projects of mine:
+
 React Hook Form - the winner of the awards and an interesting way to approach components that are present in most projects
+
 reacttime - a debugging tool for React as a Chrome extension
+
 Blitz.js - A fullstack React framework that could be fun to try out
+
 React Query - Described as hooks for fetching, caching and updating asynchronous data in React, and may be a helpful addition to projects
+
 Chakra UI - Described as Simple, Modular & Accessible UI Components for your React Applications, and had good feedback from those who have used it
+
 
 If you are interested in looking at all of the nominees, here is the webpage: [https://osawards.com/react/#nominees](https://osawards.com/react/#nominees)
 
